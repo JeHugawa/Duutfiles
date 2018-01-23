@@ -4,8 +4,8 @@ I don't currently have much anything here cause i don't have time but i won't re
 
 ## TODO
 - [ ] vim 
-- [ ] i3wm
-- [ ] i3lock
-- [ ] i3status
+- [x] i3wm
+- [x] i3lock
+- [x] i3status
 - [ ] sakura
 - [ ] termite
