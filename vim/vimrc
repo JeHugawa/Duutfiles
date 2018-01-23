@@ -1,8 +1,12 @@
+runtime! archlinux.vim
+
 set tabstop=4
 set shiftwidth=4
 set expandtab
-set nu
+set number
 syntax on
 set ignorecase
 set smartcase
-set smartindent
+set clipboard+=unnamedplus
+"I have 0 Idea why my backspace stopped working but this fixes it: Let's keep it for now"
+set nocompatible
