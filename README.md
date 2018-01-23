@@ -9,3 +9,4 @@ I don't currently have much anything here cause i don't have time but i won't re
 - [x] i3status
 - [ ] sakura
 - [ ] termite
+- [ ] .sh script for automation (rearrange file hierarchy?)
