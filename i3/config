@@ -42,6 +42,10 @@ bindsym --release Print exec scrot -s ~/Pictures/'%d.%m.%y_%H-%M-%S'.png
 bindsym --release Shift+Print exec scrot -u ~/Pictures/'%d.%m.%y_%H-%M-%S'.png
 
 
+# Adjust keyboard backlight (with script)
+bindsym $mod+x exec $HOME/.config/i3/adjust_kbbacklight.sh
+
+
 # adjust brightness
 # bindsym Shift+XF86MonBrightnessUp exec light -A 1
 # bindsym Shift+XF86MonBrightnessDown exec light -U 1
